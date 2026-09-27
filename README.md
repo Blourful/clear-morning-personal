@@ -1,6 +1,14 @@
-# Clear Morning (Personal Fork)
+# Clear Morning Personal
 
-This is a personal fork of [Clear Morning](https://github.com/saltyaom/clear-morning) by @SaltyAom.
-> Note: This fork is intended for **individual use only**.
-<!-- ![demo](./images/demo.png) -->
-For the full original usage instructions, please refer to the original repository.
+My personal new-tab extension based on [Clear Morning](https://github.com/saltyaom/clear-morning), with a clean design and extra daily-use features.
+
+## Features
+
+- Japanese lyrics with Chinese translations, with an on/off toggle
+- Multiple background images and custom image uploads
+- Bing, Google, and Sogou search engines
+- Custom pinned links with names, URLs, and SVG icons
+- Local proxy support for search suggestions
+- Live clock and dynamic background effects
+
+> For personal use only. See the original repository for copyright and license information.
