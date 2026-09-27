@@ -9,6 +9,5 @@ My personal new-tab extension based on [Clear Morning](https://github.com/saltya
 - Bing, Google, and Sogou search engines
 - Custom pinned links with names, URLs, and SVG icons
 - Local proxy support for search suggestions
-- Live clock and dynamic background effects
 
 > For personal use only. See the original repository for copyright and license information.
