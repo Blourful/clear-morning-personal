@@ -10,4 +10,9 @@ My personal new-tab extension based on [Clear Morning](https://github.com/saltya
 - Custom pinned links with names, URLs, and SVG icons
 - Local proxy support for search suggestions
 
+## Preview
+
+![Preview 1](./images/image.png)
+![Preview 2](./images/image2.png)
+
 > For personal use only. See the original repository for copyright and license information.
